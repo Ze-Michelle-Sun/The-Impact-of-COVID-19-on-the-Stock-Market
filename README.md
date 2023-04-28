@@ -26,9 +26,9 @@ Read the daily confirmed cases and deaths into two data frames, and the link can
 
 - Cleaning Data
 
-- Exploring Data through Visualizations with Matplotlib
+- Exploring Data
 
-- Matplotlib
+- Visualizing with Matplotlib
 
 ## Conclusion
 
