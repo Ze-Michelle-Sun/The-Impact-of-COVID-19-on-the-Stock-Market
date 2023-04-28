@@ -36,6 +36,4 @@ Read the daily confirmed cases and deaths into two data frames, and the link can
 
 - Used the line chart with different y axes to visualize the USA and Canada's stock market in one figure, and in another figure to display the travel, real estate, and precious metals market trend. The same reason as COVID-19.
 
-- To better compare the impact of COVID-19 on the stock market, we only took the data from the period when COVID-19 occurred to show the stock market changes. Those two countries have a similar trend in the stock market.
-
 - Over all, the impact of COVID-19 in the USA and Canada on all 5 stock markets coincided with the timing.
