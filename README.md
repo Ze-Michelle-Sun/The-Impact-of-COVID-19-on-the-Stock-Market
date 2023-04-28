@@ -30,7 +30,9 @@ Because this API key could not fetch the daily data of the stock market which is
 ## This Notebook will Show Use of:
 
 -Importing Data with Pandas
+
 -Cleaning Data
+
 -Exploring Data through Visualizations with Matplotlib
 
 ## Conclusion
