@@ -2,7 +2,16 @@
 ## Read the daily confirmed cases and deaths into two data frames
 
 Link can be found on this GitHub: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
-## Use pandas to create a data frame that aggregates and sums both confirmed cases and deaths on a global level
+## Methodology
+### This Notebook will Show Use of:
+
+- Importing Data with Pandas
+
+- Cleaning Data
+
+- Exploring Data through Visualizations with Matplotlib
+
+### Use pandas to create a data frame that aggregates and sums both confirmed cases and deaths on a global level
 
 - NumPy
 
@@ -24,20 +33,6 @@ e) Precious metals (Gold, Silver, Platinum, etc): iShares S&P/TSX Global Gold In
 Because this API key could not fetch the daily data of the stock market which is a premium endpoint, only fetched the weekly data.
 
 - Matplotlib
-
-## Research a stock for each below that reflects the following industries
-
-- What was the COVID-19 impact on the price of the stock over time?
-
-- What was the correlation between different stocks' closing prices?
-
-## This Notebook will Show Use of:
-
-- Importing Data with Pandas
-
-- Cleaning Data
-
-- Exploring Data through Visualizations with Matplotlib
 
 ## Conclusion
 
