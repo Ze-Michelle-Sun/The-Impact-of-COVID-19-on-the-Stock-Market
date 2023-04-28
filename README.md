@@ -1,4 +1,5 @@
 # The Impact of COVID-19 on the Stock Market
+link: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
 
 ## Read the daily confirmed cases and deaths into two data frames can be found on this GitHub
 ## Use pandas to create a data frame that aggregates and sums both confirmed cases and deaths on a global level
@@ -28,9 +29,9 @@ Because this API key could not fetch the daily data of the stock market which is
 
 ## This Notebook will Show Use of:
 
-Importing Data with Pandas
-Cleaning Data
-Exploring Data through Visualizations with Matplotlib
+-Importing Data with Pandas
+-Cleaning Data
+-Exploring Data through Visualizations with Matplotlib
 
 ## Conclusion
 
